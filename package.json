@@ -1,6 +1,6 @@
 {
   "name": "@vengets/aws_credy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/src/index.js",
   "bin": "dist/src/index.js",
