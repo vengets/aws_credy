@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import {displayLogo} from "./logo";
 import {displayOptions} from "./options";
 import {setCredentials} from "./awsUtility";
